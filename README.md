@@ -2,7 +2,7 @@
 
 #### Role
 
-The documentation team’s role is to assist with improvements to concrete5’s documentation (including [editors’ guide](https://documentation.concrete5.org/editors), [developers’ docs](https://documentation.concrete5.org/developers), [tutorials](http://documentation.concrete5.org/tutorials), <a title="The concrete5 site does not currently have a FAQ." name="b1">FAQ</a>, [API](http://documentation.concrete5.org/api) and [YouTube](https://www.youtube.com/channel/UCywmkk3TWHLcYyKafNDFCUA)). Responsibility for source code documentation remains with GitHub contributors, although the documentation team can recommend improvements on pull requests.
+The documentation team’s role is to assist with improvements to concrete5’s documentation (including [editors’ guide](https://documentation.concrete5.org/editors), [developers’ docs](https://documentation.concrete5.org/developers), [tutorials](http://documentation.concrete5.org/tutorials), <a title="The concrete5 site does not currently have a FAQ.">FAQ</a><sup name="b1">[1](#e1)</sup>, [API](http://documentation.concrete5.org/api) and [YouTube](https://www.youtube.com/channel/UCywmkk3TWHLcYyKafNDFCUA)). Responsibility for source code documentation remains with GitHub contributors, although the documentation team can recommend improvements on pull requests.
 
 #### Responsibilities
 
